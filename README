@@ -1,0 +1,7 @@
+when you learn datatypes
+
+""""
+console.log(typeof 12);  ==> number
+console.log(typeof undefine);  ==> undefine 
+console.log(typeof null);  ==> object  // make sure about this stuff
+"""
