@@ -14,4 +14,6 @@ In javascript comparison and eqilaity check are two differnt things.
 1.primitive change in copy
 2. nonpromitive change in original 
 
+string methods
 
+string.prototype.methods()
