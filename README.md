@@ -17,3 +17,4 @@ In javascript comparison and eqilaity check are two differnt things.
 string methods
 
 string.prototype.methods()
+
