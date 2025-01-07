@@ -18,3 +18,4 @@ string methods
 
 string.prototype.methods()
 
+charAt(index)
