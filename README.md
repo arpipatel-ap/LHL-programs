@@ -23,3 +23,7 @@ charAt(index)
 concat(str1)
 concat(str1, str2)
 concat(str1, str2, /* …, */ strN)
+
+
+endsWith(searchString)
+endsWith(searchString, endPosition)
