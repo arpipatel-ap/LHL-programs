@@ -27,3 +27,6 @@ concat(str1, str2, /* …, */ strN)
 
 endsWith(searchString)
 endsWith(searchString, endPosition)
+
+includes(searchString)
+includes(searchString, position)
