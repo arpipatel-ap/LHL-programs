@@ -33,3 +33,5 @@ includes(searchString, position)
 
 repeat(count)
 
+replace(pattern, replacement)
+
