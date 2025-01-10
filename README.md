@@ -30,3 +30,6 @@ endsWith(searchString, endPosition)
 
 includes(searchString)
 includes(searchString, position)
+
+repeat(count)
+
