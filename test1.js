@@ -38,3 +38,8 @@ console.log(
   } in the sentence`,
 );
 // Expected output: "The word "fox" is in the sentence"
+
+const mood = 'Happy! ';
+
+console.log(`I feel ${mood.repeat(3)}`);
+// Expected output: "I feel Happy! Happy! Happy! "
