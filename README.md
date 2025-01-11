@@ -33,5 +33,7 @@ includes(searchString, position)
 
 repeat(count)
 
+
+ Replace --If pattern is a string, only the first occurrence will be replaced. The original string is left unchanged.
 replace(pattern, replacement)
 
