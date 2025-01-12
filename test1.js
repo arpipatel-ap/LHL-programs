@@ -47,11 +47,23 @@ console.log(`I feel ${mood.repeat(3)}`);
 
 /// string method replace()
 
+// const paragraph = "I think Ruth's dog is cuter than your dog!";
+
+// console.log(paragraph.replace("Ruth's", 'my'));
+// // Expected output: "I think my dog is cuter than your dog!"
+
+// const regex = /Dog/i;
+// console.log(paragraph.replace(regex, 'ferret'));
+// // Expected output: "I think Ruth's ferret is cuter than your dog!"
+
 const paragraph = "I think Ruth's dog is cuter than your dog!";
 
-console.log(paragraph.replace("Ruth's", 'my'));
-// Expected output: "I think my dog is cuter than your dog!"
+console.log(paragraph.replaceAll('dog', 'monkey'));
+// Expected output: "I think Ruth's monkey is cuter than your monkey!"
 
-const regex = /Dog/i;
-console.log(paragraph.replace(regex, 'ferret'));
-// Expected output: "I think Ruth's ferret is cuter than your dog!"
+// Global flag required when calling replaceAll with regex
+const regex = /Dog/gi;
+console.log(paragraph.replaceAll(regex, 'ferret'));
+// Expected output: "I think Ruth's ferret is cuter than your ferret!"
+
+
