@@ -40,3 +40,7 @@ replace(pattern, replacement)
 replaceAll(pattern, replacement)
 
 
+slice(indexStart)
+slice(indexStart, indexEnd)
+
+
