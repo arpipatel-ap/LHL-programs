@@ -43,4 +43,7 @@ replaceAll(pattern, replacement)
 slice(indexStart)
 slice(indexStart, indexEnd)
 
+split(separator)
+split(separator, limit)
+
 
