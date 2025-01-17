@@ -47,3 +47,7 @@ split(separator)
 split(separator, limit)
 
 
+startsWith(searchString)
+startsWith(searchString, position)
+
+
