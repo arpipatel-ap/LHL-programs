@@ -50,5 +50,7 @@ split(separator, limit)
 startsWith(searchString)
 startsWith(searchString, position)
 
+substring(indexStart)
+substring(indexStart, indexEnd)
 
 
