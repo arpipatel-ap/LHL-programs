@@ -53,4 +53,7 @@ startsWith(searchString, position)
 substring(indexStart)
 substring(indexStart, indexEnd)
 
+toLocaleLowerCase()
+toLocaleLowerCase(locales)
+
 
