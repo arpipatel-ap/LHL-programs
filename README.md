@@ -57,3 +57,5 @@ toLocaleLowerCase()
 toLocaleLowerCase(locales)
 
 
+toLocaleUpperCase()
+toLocaleUpperCase(locales)
