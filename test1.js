@@ -118,3 +118,6 @@ console.log(`EN-US: ${dotted.toLocaleLowerCase('en-US')}`);
 
 console.log(`TR: ${dotted.toLocaleLowerCase('tr')}`);
 // Expected output: "istanbul"
+
+
+//same if we use Uppercase we can use toLocaleUpperCase()
