@@ -59,3 +59,7 @@ toLocaleLowerCase(locales)
 
 toLocaleUpperCase()
 toLocaleUpperCase(locales)
+
+
+trim()
+
