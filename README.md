@@ -63,3 +63,7 @@ toLocaleUpperCase(locales)
 
 trim()
 
+trimEnd()
+
+trimRight()
+
