@@ -67,3 +67,6 @@ trimEnd()
 
 trimRight()
 
+trimStart()
+
+trimLeft()
