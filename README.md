@@ -70,3 +70,5 @@ trimRight()
 trimStart()
 
 trimLeft()
+
+valueOf()
