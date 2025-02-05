@@ -152,3 +152,11 @@ console.log(stringObj.valueOf());
 
 // console.log(`${str} ${str.length}`);
 // // Expected output: "Life, the universe and everything. Answer: 42"
+
+// const stringObj = new String('foo');
+
+// console.log(stringObj);
+// // Expected output: String { "foo" }
+
+// console.log(stringObj.toString());
+// // Expected output: "foo"
