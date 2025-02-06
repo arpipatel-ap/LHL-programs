@@ -160,3 +160,8 @@ console.log(stringObj.valueOf());
 
 // console.log(stringObj.toString());
 // // Expected output: "foo"
+
+const fruits = [];
+fruits.push("banana", "apple", "peach");
+console.log(fruits.length); // 3
+
