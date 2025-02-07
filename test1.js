@@ -165,3 +165,9 @@ const fruits = [];
 fruits.push("banana", "apple", "peach");
 console.log(fruits.length); // 3
 
+
+const sum = new Function('a', 'b', 'return a + b');
+
+console.log(sum(2, 6));
+// Expected output: 8
+
